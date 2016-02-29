@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./portiforiiseubr00cathgoog_0280.png"; bbox 0 0 2910 4457; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 957 757 1948 1588">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 957 757 1948 1588">
+     <span class='ocr_line' id='line_1_1' title="bbox 957 757 1948 1588; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 957 757 1948 1588; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1039 1856 2079 2078">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1039 1856 2079 2078">
+     <span class='ocr_line' id='line_1_2' title="bbox 1039 1856 2079 1917; baseline 0.019 -22"><span class='ocrx_word' id='word_1_2' title='bbox 1039 1856 1311 1901; x_wconf 69' lang='lat' dir='ltr'>Excusus</span> <span class='ocrx_word' id='word_1_3' title='bbox 1348 1864 1659 1909; x_wconf 61' lang='lat' dir='ltr'><strong>Aususnss</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1701 1870 2079 1917; x_wconf 71' lang='lat' dir='ltr'><strong>TREVIRORUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1410 1947 1710 1991; baseline 0.01 -4"><span class='ocrx_word' id='word_1_5' title='bbox 1410 1947 1461 1987; x_wconf 74' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1487 1948 1710 1991; x_wconf 61' lang='lat' dir='ltr'><strong>ommim</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1142 2024 1981 2078; baseline 0.018 -15"><span class='ocrx_word' id='word_1_7' title='bbox 1142 2024 1463 2069; x_wconf 63' lang='lat' dir='ltr'><strong>mummuli:</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1490 2031 1981 2078; x_wconf 69' lang='lat' dir='ltr'>LsslerNscuNssmRn.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2259 4174 2830 4372">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2259 4174 2830 4372">
+     <span class='ocr_line' id='line_1_5' title="bbox 2259 4174 2830 4372; baseline 0 85"><span class='ocrx_word' id='word_1_9' title='bbox 2259 4174 2830 4372; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
